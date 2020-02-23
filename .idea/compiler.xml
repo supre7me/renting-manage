@@ -6,14 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="server-generator" />
         <module name="renting-manage-api-server" />
         <module name="dubbo-interface" />
         <module name="dubbo-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dubbo-service" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -22,6 +20,7 @@
       <module name="house-resources" options="-parameters" />
       <module name="renting-manage-api-server" options="-parameters" />
       <module name="renting-manage-dubbo-server" options="-parameters" />
+      <module name="server-generator" options="-parameters" />
     </option>
   </component>
 </project>

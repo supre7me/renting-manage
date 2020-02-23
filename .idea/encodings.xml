@@ -4,10 +4,9 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/renting-manage-api-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/house-resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/house-resources/dubbo-interface" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/house-resources/dubbo-interface" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/house-resources/dubbo-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/house-resources/dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/renting-manage-dubbo-server-house-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/renting-manage-dubbo-server-house-resources/dubbo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/renting-manage-dubbo-server-house-resources/dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renting-manage-dubbo-server/server-generator" charset="UTF-8" />
   </component>
 </project>
